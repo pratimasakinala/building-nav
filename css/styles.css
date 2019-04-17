@@ -92,8 +92,24 @@ li:hover {
 
 /* Content styles*/
 .content {
-    height: 85vh;
+    height: 90vh;
+    padding: 0 50px;
 }
+
+.map-frame {
+    width: 100%;
+}
+
+.audio {
+    margin: 0 auto;
+    width: 300px;
+}
+
+.video {
+    margin: 0 auto;
+    width: 560px;
+}
+
 /* End Content styles*/
 
 /* Footer styles */
